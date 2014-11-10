@@ -8,7 +8,7 @@ Count the number of lines of ABAP code of custom abap objects.....
 For installation and usage see wiki (....)
 
 Installation:
-Download Nugged and import with SAPlink (http://www.saplink.org)
+Download release 2.2 Slinkee from releases(https://github.com/OlivieriAndrea/ABAPSloc/releases) and import with SAPlink (http://www.saplink.org)
 Activate all inactive objects
 
 Related SCN Blogs:
